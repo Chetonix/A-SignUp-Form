@@ -60,6 +60,7 @@ body {
     font-weight: 400;
     font-family: 'Inter', sans-serif;
     gap: 20px;
+    background-color: white;
 }
 
 .content p {
@@ -83,6 +84,7 @@ body {
 
 section {
     margin-bottom: 25px;
+    background-color: white;
 }
 
 .inputs {
@@ -90,3 +92,4 @@ section {
     grid-template-columns: 1fr 1fr;
     gap: 8px;
 }
+
