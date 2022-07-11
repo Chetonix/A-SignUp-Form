@@ -93,3 +93,16 @@ section {
     gap: 8px;
 }
 
+.btn {
+    background-color: #596D48;
+    width: 180px;
+    height: 35px;
+    color: white;
+    font-family: inherit;
+    font-weight: 400;
+    padding: 10px;
+    font-size: 0.7rem;
+    border-radius: 6px;
+    border: none;
+}
+
