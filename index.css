@@ -83,7 +83,7 @@ body {
 }
 
 section {
-    margin-bottom: 25px;
+    margin-bottom: 45px;
     background-color: white;
 }
 
@@ -106,3 +106,13 @@ section {
     border: none;
 }
 
+.log-in {
+    margin-top: 10px;
+    font-size: 0.7rem;
+
+}
+
+.log-in span{
+    color: #596D48;
+    font-weight: bold;
+}
