@@ -2,3 +2,30 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+.container {
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: 350px 1fr;
+    height: 100vh;
+    padding-left: 15%;
+    padding-right: 15%;
+    background-color: darkslategrey;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.sidebar {
+    /* background-image: url(./halie-west-25xggax4bSA-unsplash.jpg); */
+}
+
+.sidebar img {
+    width: 350px;
+    height: 100vh;
+}
