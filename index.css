@@ -84,3 +84,9 @@ body {
 section {
     margin-bottom: 25px;
 }
+
+.inputs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+}
