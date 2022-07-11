@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;400&display=swap');
 
 * {
     margin: 0;
@@ -58,6 +57,21 @@ body {
     display: grid;
     align-content: center;
     background-color: white;
-    font-weight: bold;
-    
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    gap: 20px;
+}
+
+.content p {
+    padding-right: 70px;
+}
+
+.form-section h2 {
+    font-size: inherit;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
+
+.content-top {
+    margin-bottom: 20px;
 }
