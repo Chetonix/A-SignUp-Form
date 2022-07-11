@@ -75,3 +75,12 @@ body {
 .content-top {
     margin-bottom: 20px;
 }
+
+.inputs label{
+    font-size: 8px;
+    letter-spacing: 0.25rem;
+}
+
+section {
+    margin-bottom: 25px;
+}
